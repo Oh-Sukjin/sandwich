@@ -6,3 +6,5 @@ Fromage
 Bacon
 Cheddar
 Oignon
+Pomme de terre
+
